@@ -5,7 +5,7 @@ This project involves the analysis and visualization of loan data using Tableau.
 
 ## Features
 - Comprehensive Tableau dashboard for loan data analysis.
-- Dynamic visualizations including pie charts, donut charts, bar graphs, maps, line graphs, area graphs, and treemaps.
+- Dynamic visualizations including pie charts, donut charts, bar graphs, maps, line graphs, area charts, and treemaps.
 - Data validation using SQL queries to ensure accuracy and reliability.
 - Interactive and user-friendly data exploration interface.
 
@@ -23,7 +23,7 @@ The Tableau dashboard includes the following visualizations:
 - Bar Graphs
 - Maps
 - Line Graphs
-- Area Graphs
+- Area Charts
 - Treemaps
 
 ## Courtesy
